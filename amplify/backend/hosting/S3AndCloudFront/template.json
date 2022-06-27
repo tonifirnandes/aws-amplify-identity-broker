@@ -32,7 +32,7 @@
             {
               "ServerSideEncryptionByDefault": {
                 "SSEAlgorithm": "aws:kms",
-                "KMSMasterKeyID": "KMS-KEY-ARN"
+                "KMSMasterKeyID": "arn:aws:kms:ap-southeast-1:835206631857:key/446d24ff-5efc-4233-b28d-fd534025d5ff"
               }
             }
           ]
